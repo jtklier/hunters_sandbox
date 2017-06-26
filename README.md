@@ -24,7 +24,7 @@ Instructions:
 * Run the Rails app
 > rails s
 
-* Go to Pivotal tracker to see the user stories to complete
+* Go to Pivotal tracker to see the user stories to complete: 
 https://www.pivotaltracker.com/n/projects/2065691
 
 You won't be able to edit them or press "start", but you need to complete all stories. 
