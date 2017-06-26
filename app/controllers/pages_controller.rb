@@ -8,4 +8,10 @@ class PagesController < ApplicationController
     @message = "welcome"
   end
 
+  def profile
+    @current_user = current_user
+    @scooby_doo = Product.first.name
+  end
+
+
 end
