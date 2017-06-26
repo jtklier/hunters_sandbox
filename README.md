@@ -24,6 +24,9 @@ Instructions:
 * Run the Rails app
 > rails s
 
+* Your app is now running but you won't be able to do anything if you don't run the migrations. 
+* The error you get when you run the app should give you a clue as to how do migrations. 
+
 * Go to Pivotal tracker to see the user stories to complete: 
 https://www.pivotaltracker.com/n/projects/2065691
 
